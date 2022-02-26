@@ -18,3 +18,21 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
+<h3>Latest projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Link</b></td>
+    </tr>
+    <tr>
+       <td>MatkoSocial</td>
+       <td>https://github.com/Matematko123/MatkoSocial</td>
+      </tr>
+    <tr>
+      <td>RealtimeChat</td>
+     <td>https://github.com/Matematko123/RealtimeChat </td>
+    </tr>
+  </thead>
+ 
+</table>
