@@ -23,7 +23,7 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>🎁 Link</b></td>
+      <td><b>Link</b></td>
     </tr>
     <tr>
        <td>MatkoSocial</td>
