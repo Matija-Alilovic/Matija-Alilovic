@@ -28,7 +28,11 @@
     <tr>
        <td>MatkoSocial</td>
        <td>https://github.com/Matematko123/MatkoSocial</td>
-      </tr>
+    </tr>
+    <tr>
+       <td>NikeStore</td>
+       <td>https://github.com/Matematko123/NIKE-STORE</td>
+    </tr>
     <tr>
       <td>RealtimeChat</td>
      <td>https://github.com/Matematko123/RealtimeChat </td>
