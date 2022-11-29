@@ -5,9 +5,9 @@
 
 <h3>Tools I work with</h3>
 <p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge"/>
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square?logo=figma&logoColor=fff&style=for-the-badge"/>
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-red?style=flat-square&logo=express&logoColor=white" height="20" /> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
