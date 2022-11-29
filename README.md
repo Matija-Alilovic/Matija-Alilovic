@@ -5,7 +5,7 @@
 
 
 <p>
-    <img alt="Unity" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-red?style=flat-square&logo=express&logoColor=white" height="20" /> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -19,7 +19,7 @@
 </p>
 <h3>Latest projects</h3>
 <table>
-  <thead align="center">
+   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>Link</b></td>
@@ -35,6 +35,10 @@
     <tr>
        <td>MatkoSocial</td>
        <td>https://github.com/Matija-Alilovic/MatkoSocial</td>
+    </tr>
+    <tr>
+       <td>Opg Čudesna Šuma</td>
+       <td>https://github.com/Matija-Alilovic/opg-cudesna-suma</td>
     </tr>
     <tr>
        <td>NikeStore</td>
