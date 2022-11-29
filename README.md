@@ -34,8 +34,8 @@
        <td>https://github.com/Matija-Alilovic/MBikes</td>
     </tr>
     <tr>
-       <td>MatkoSocial</td>
-       <td>https://github.com/Matija-Alilovic/MatkoSocial</td>
+       <td>MSocial</td>
+       <td>https://github.com/Matija-Alilovic/MSocial</td>
     </tr>
     <tr>
        <td>Opg Čudesna Šuma</td>
