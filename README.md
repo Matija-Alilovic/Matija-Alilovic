@@ -26,27 +26,27 @@
     </tr>
     <tr>
        <td>MTraveler</td>
-       <td>https://github.com/Matematko123/MTraveler</td>
+       <td>https://github.com/Matija-Alilovic/MTraveler</td>
     </tr>
     <tr>
        <td>MBikes</td>
-       <td>https://github.com/Matematko123/MBikes</td>
+       <td>https://github.com/Matija-Alilovic/MBikes</td>
     </tr>
     <tr>
        <td>MatkoSocial</td>
-       <td>https://github.com/Matematko123/MatkoSocial</td>
+       <td>https://github.com/Matija-Alilovic/MatkoSocial</td>
     </tr>
     <tr>
        <td>NikeStore</td>
-       <td>https://github.com/Matematko123/NIKE-STORE</td>
+       <td>https://github.com/Matija-Alilovic/NIKE-STORE</td>
     </tr>
     <tr>
       <td>RealtimeChat</td>
-     <td>https://github.com/Matematko123/RealtimeChat </td>
+     <td>https://github.com/Matija-Alilovic/RealtimeChat </td>
     </tr>
     <tr>
       <td>MatkoFilmer</td>
-     <td>https://github.com/Matematko123/MatkoFilmer </td>
+     <td>https://github.com/Matija-Alilovic/MatkoFilmer </td>
     </tr>
   </thead>
  
