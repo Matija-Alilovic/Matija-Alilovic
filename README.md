@@ -1,10 +1,11 @@
+### My Portofolio https://matija-alilovic.netlify.app
 ### Hi there 👋
 
-<p>Welcome to my page! </br> I'm Matija, Fullstack / Game developer from <img src="https://user-images.githubusercontent.com/99608089/155841298-f6f7b0d9-1f18-422b-bf08-36fe690a11e2.png" width="13"/> <b>Zagreb, Croatia</b>, currently studying at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvWehPZseWvp40qK8EXN4pSlM3m8oiaOv5dQggcJCqN1qFRdF8TSMVhCl61zLC0GatG8&usqp=CAU" width="12"/> <b>Zagreb University of Applied Sciences</b>. </p>
-<h3>Things I code with</h3>
+<p>Welcome to my page! </br> I'm Matija, software engineer from <img src="https://user-images.githubusercontent.com/99608089/155841298-f6f7b0d9-1f18-422b-bf08-36fe690a11e2.png" width="13"/> <b>Zagreb, Croatia</b>, currently studying at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvWehPZseWvp40qK8EXN4pSlM3m8oiaOv5dQggcJCqN1qFRdF8TSMVhCl61zLC0GatG8&usqp=CAU" width="12"/> <b>Zagreb University of Applied Sciences</b>. </p>
 
-
+<h3>Tools I work with</h3>
 <p>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge"/>
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-red?style=flat-square&logo=express&logoColor=white" height="20" /> 
