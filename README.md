@@ -1,7 +1,7 @@
 ### My Portofolio https://matija-alilovic.netlify.app
 ### Hi there 👋
 
-<p>Welcome to my page! </br> I'm Matija, software engineer from <img src="https://user-images.githubusercontent.com/99608089/155841298-f6f7b0d9-1f18-422b-bf08-36fe690a11e2.png" width="13"/> <b>Zagreb, Croatia</b>, currently studying at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvWehPZseWvp40qK8EXN4pSlM3m8oiaOv5dQggcJCqN1qFRdF8TSMVhCl61zLC0GatG8&usqp=CAU" width="12"/> <b>Zagreb University of Applied Sciences</b>. My passion for development is exceptional, I’m always curious to learn more when it comes to new technologies and software engineering.
+<p>Welcome to my page! </br> I'm Matija, software engineer from <img src="https://user-images.githubusercontent.com/99608089/155841298-f6f7b0d9-1f18-422b-bf08-36fe690a11e2.png" width="13"/> <b>Zagreb, Croatia</b>. My passion for development is exceptional, I’m always curious to learn more when it comes to new technologies and software engineering.
  </p>
 
 <h3>Tools I work with</h3>
